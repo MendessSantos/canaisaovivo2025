@@ -1,0 +1,89 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "inter_activity1": "no",
+      "UserAgent_web": "no",
+      "Value_UserAgent_web": "Mozilla/5.0 (Windows NT 10.0; Android 8.0.0)",
+      "share_rate_url": "https://play.google.com/store/apps/details?id=",
+      "redirect_url": "https://play.google.com/store/apps/details?id=",
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_vpn_access": false,
+      "enable_dark_mode_as_default_theme": false,
+      "landscape_mode_as_default_player_orientation": false
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ads": "unity",
+      "backup_ads": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "209473715",
+      "unity_game_id": "5829508",
+      "unity_banner_placement_id": "Banner_Android",
+      "unity_interstitial_placement_id": "Interstitial_Android",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_key": "c4da0bec-725e-49c1-b48c-c37faa61cd06",
+      "wortise_banner_unit_id": "e7d36f54-9dc0-40a3-adaf-7e820454a747",
+      "wortise_interstitial_unit_id": "0",
+      "wortise_native_unit_id": "9734f2ef-145f-4b3c-a57e-37aa4e4b86ca",
+      "wortise_app_open_ad_unit_id": "c6ce4097-f746-47b9-a900-236285d2ed82",
+      "bigo_app_id": "10918378",
+      "bigo_banner_unit_id": "10918378-10916912",
+      "bigo_interstitial_unit_id": "10918378-10665810",
+      "bigo_native_unit_id": "10918378-10676145",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 2
+    }
+  ],
+  "channels": [
+    {
+      "title": "Premiere Clubes",
+      "category": "Categoria do Canal 1",
+      "image": "https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png",
+      "source1": "https://embmaxtv.online/premiereclubes/index.m3u8",
+      "source2": "https://dm2-usa-cloud-stream-user40028922.s27-usa-cloudfront-net.online/token/698d16f26380ab884534d9a3df8ceca3/premiere.m3u8",
+      "source3": "https://www.youtube.com/embed/z3RoatGZHmk",
+      "referer1": "https://embedcanais.com/",
+      "referer2": "Outro URL de referer (se necessário)",
+      "referer3": "Mais um URL de referer (se necessário)",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)", 
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    },
+    {
+      "title": "Nome do Canal 2",
+      "category": "Categoria do Canal 2",
+      "image": "URL da Imagem do Canal 2",
+      "source1": "URL do Canal (iframe ou link direto)",
+      "source2": "URL alternativo do Canal (se houver)",
+      "source3": "Outro link do Canal (se necessário)",
+      "referer1": "URL do referer (se necessário)",
+      "referer2": "Outro URL de referer (se necessário)",
+      "referer3": "Mais um URL de referer (se necessário)",
+      "user_agent1": "Mozilla/5.0 (Linux; Android 10)", 
+      "user_agent2": "Mozilla/5.0 (Linux; Android 10)",
+      "user_agent3": "Mozilla/5.0 (Linux; Android 10)"
+    }
+  ]
+}
